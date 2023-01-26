@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julioaraujo96
 
 # 💫 About Me:
-🔭 I’m currently working on VueJS in amazing international projects!<br>👯 I’m looking to collaborate on creative ideas with new tech and amazing people<br>🤝 I’m looking forward for new opportunities<br>🌱 I’m currently learning React, NodeJS
+🔭 I’m currently working on VueJS in amazing international projects @Nonius!<br>👯 I’m looking to collaborate on creative ideas with new tech and amazing people<br>🤝 I’m looking forward for new opportunities<br>🌱 I’m currently learning React, NodeJS
 
 
 ## 🌐 Socials:
