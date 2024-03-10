@@ -1,7 +1,27 @@
-- 👋 Hi, I’m @julioaraujo96
+👋 Hello!  I'm a technology enthusiast with a focus on Front End Web Development. My professional journey began with a burning desire to create visually appealing user interfaces, that solve problems and amaze people.<br>
 
-# 💫 About Me:
-🔭 I’m currently working on VueJS in amazing international projects @Nonius!<br>👯 I’m looking to collaborate on creative ideas with new tech and amazing people<br>🤝 I’m looking forward for new opportunities<br>🌱 I’m currently learning React, NodeJS
+💡Checkout my portfolio: julioaraujo.vercel.app/ <br>
+
+🚀 About Me
+I consider myself a curious individual, always eager to learn new things and share them with others. As a software engineer, I have passion for building web applications that enhance people's lives, impact the world and drive business growth.
+
+⚙️ Technical Skills
+My key technical skills include:
+
+Front End: HTML, CSS, JavaScript, Typescript, React, Vue, Tailwind CSS, SCSS, CSS in JS, NextJS
+Back End: NodeJS, NestJs
+Testing: Jest, Selenium, WebDriver IO
+Database: MySQL, Postgres, MongoDB, Redis, GraphQL
+Tools and Other Technologies: Git, GitHub, Figma, Gitlab, Jenkins, Confluence, Jira, ArgoCD
+
+🌱 Continuous Learning
+I firmly believe in the importance of continuous learning to keep up with the constant innovations in the field of Web Development. I always strive to enhance my skills and knowledge, whether through courses or personal projects.
+
+💼 Professional Objective
+I am open to exciting opportunities that allow me to collaborate with talented and inspiring teams in developing innovative web solutions. My goal is to actively contribute to meaningful projects that have a positive impact on the world. I want to keep growing as a professional and build my journey to be a senior software engineer.
+
+📧 Please feel free to reach out to me via LinkedIn to discuss exciting projects and new opportunities.
+I look forward to connecting with professionals who share my passion for this field and even if my profile doesn't match, maybe i'll be able to refer some profiles,
 
 
 ## 🌐 Socials:
