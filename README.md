@@ -2,26 +2,26 @@
 
 💡Checkout my portfolio: julioaraujo.vercel.app/ <br>
 
-🚀 About Me
-I consider myself a curious individual, always eager to learn new things and share them with others. As a software engineer, I have passion for building web applications that enhance people's lives, impact the world and drive business growth.
+🚀 About Me<br>
+I consider myself a curious individual, always eager to learn new things and share them with others. As a software engineer, I have passion for building web applications that enhance people's lives, impact the world and drive business growth.<br>
 
-⚙️ Technical Skills
-My key technical skills include:
+⚙️ Technical Skills <br>
+My key technical skills include: <br>
 
-Front End: HTML, CSS, JavaScript, Typescript, React, Vue, Tailwind CSS, SCSS, CSS in JS, NextJS
-Back End: NodeJS, NestJs
-Testing: Jest, Selenium, WebDriver IO
-Database: MySQL, Postgres, MongoDB, Redis, GraphQL
-Tools and Other Technologies: Git, GitHub, Figma, Gitlab, Jenkins, Confluence, Jira, ArgoCD
+Front End: HTML, CSS, JavaScript, Typescript, React, Vue, Tailwind CSS, SCSS, CSS in JS, NextJS <br>
+Back End: NodeJS, NestJs <br>
+Testing: Jest, Selenium, WebDriver IO <br>
+Database: MySQL, Postgres, MongoDB, Redis, GraphQL <br>
+Tools and Other Technologies: Git, GitHub, Figma, Gitlab, Jenkins, Confluence, Jira, ArgoCD <br>
 
-🌱 Continuous Learning
-I firmly believe in the importance of continuous learning to keep up with the constant innovations in the field of Web Development. I always strive to enhance my skills and knowledge, whether through courses or personal projects.
+🌱 Continuous Learning <br>
+I firmly believe in the importance of continuous learning to keep up with the constant innovations in the field of Web Development. I always strive to enhance my skills and knowledge, whether through courses or personal projects. <br>
 
-💼 Professional Objective
-I am open to exciting opportunities that allow me to collaborate with talented and inspiring teams in developing innovative web solutions. My goal is to actively contribute to meaningful projects that have a positive impact on the world. I want to keep growing as a professional and build my journey to be a senior software engineer.
+💼 Professional Objective <br>
+I am open to exciting opportunities that allow me to collaborate with talented and inspiring teams in developing innovative web solutions. My goal is to actively contribute to meaningful projects that have a positive impact on the world. I want to keep growing as a professional and build my journey to be a senior software engineer. <br>
 
-📧 Please feel free to reach out to me via LinkedIn to discuss exciting projects and new opportunities.
-I look forward to connecting with professionals who share my passion for this field and even if my profile doesn't match, maybe i'll be able to refer some profiles,
+📧 Please feel free to reach out to me via LinkedIn to discuss exciting projects and new opportunities. <br>
+I look forward to connecting with professionals who share my passion for this field and even if my profile doesn't match, maybe i'll be able to refer some profiles. <br>
 
 
 ## 🌐 Socials:
